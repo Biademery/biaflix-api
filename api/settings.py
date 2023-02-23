@@ -11,7 +11,7 @@ DEBUG = True
 
 ALLOWED_HOSTS=['*']
 CORS_ORIGIN_ALLOW_ALL = True
-CSRF_TRUSTED_ORIGINS = ['https://biaflix.vercel.app/']
+CORS_ALLOWED_ORIGINS = ['https://biaflix.vercel.app/']
 
 
 # Application definition
