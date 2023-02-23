@@ -21,8 +21,9 @@ Aplicação de filmes
 
 Esse projeto foi construido usando as seguintes tecnologias:
 
-- [Vue 3](https://www.vuejs.org/)
 - [Python](https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
+- [Rest framework](https://www.django-rest-framework.org/)
 
 ## ▶️ Instalando
 
